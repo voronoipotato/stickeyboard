@@ -8,6 +8,7 @@ An accessible qmk "keyboard" that uses two joysticks. (WIP)
  - 2 SANWA GT-Y Octagonal Restrictor gate for JLF Joysticks
  - SparkFun Qwiic Pro Micro - USB-C (ATmega32U4)
  - (optional) Hikig 5 Pcs/Lot 5Pin Cable for SANWA Joystick
+ - MCIGICM 10pcs Male Header Pin, 40 Pin Header Strip (2.54 mm) for Arduino Connector, though any male header pins will do
 
 
 ## Motivations
