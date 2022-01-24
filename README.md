@@ -9,7 +9,9 @@ An accessible qmk "keyboard" that uses two joysticks. (WIP)
  - SparkFun Qwiic Pro Micro - USB-C (ATmega32U4)
  - (optional) Hikig 5 Pcs/Lot 5Pin Cable for SANWA Joystick
  - MCIGICM 10pcs Male Header Pin, 40 Pin Header Strip (2.54 mm) for Arduino Connector, though any male header pins will do
-
+ - Breadboard (used to solder the header pins to the Qwiic Pro Micro) 
+ - Soldering iron (I use a cheap TS100 iron); Lead-Free Solder; Solder Wick (for removing excess);
+ - Chip Quik CQ4LF Liquid Flux No-Clean in 10ml (0.34oz) Pen w/tip 
 
 ## Motivations
  - To provide a platform for people with fine motor control issues to be able to use a computer.
